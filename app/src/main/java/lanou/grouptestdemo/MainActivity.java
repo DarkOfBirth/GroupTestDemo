@@ -19,10 +19,23 @@ public class MainActivity extends AppCompatActivity {
         //
         Toast.makeText(this, "hello world", Toast.LENGTH_SHORT).show();
 
+
+        Toast.makeText(this, "wangye", Toast.LENGTH_SHORT).show();
         Log.d("MainActivity", "log");
+
+        /*
+        1
+        1
+        1
+        1
+        1
+         */
+
+        Toast.makeText(this, "bvhjvj", Toast.LENGTH_SHORT).show();
         //123
         //456
         //789
         Log.d("MainActivity", "Log.isLogg");
+
     }
 }
