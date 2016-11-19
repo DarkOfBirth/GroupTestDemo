@@ -16,5 +16,9 @@ public class MainActivity extends AppCompatActivity {
         System.currentTimeMillis();
         //
         Log.d("MainActivity", "log");
+        //123
+        //456
+        //789
+        Log.d("MainActivity", "Log.isLogg");
     }
 }
