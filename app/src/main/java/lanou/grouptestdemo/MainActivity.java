@@ -19,5 +19,12 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "hello world", Toast.LENGTH_SHORT).show();
 
         Log.d("MainActivity", "log");
+        /*
+        1
+        1
+        1
+        1
+        1
+         */
     }
 }
