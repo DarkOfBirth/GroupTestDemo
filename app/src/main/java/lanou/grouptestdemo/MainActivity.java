@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         //
         Toast.makeText(this, "hello world", Toast.LENGTH_SHORT).show();
 
+
+        Toast.makeText(this, "wangye", Toast.LENGTH_SHORT).show();
         Log.d("MainActivity", "log");
         //123
         //456
