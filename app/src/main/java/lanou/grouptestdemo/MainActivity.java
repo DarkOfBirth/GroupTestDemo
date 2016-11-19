@@ -3,6 +3,7 @@ package lanou.grouptestdemo;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -15,5 +16,13 @@ public class MainActivity extends AppCompatActivity {
         // 下午14:22
         System.currentTimeMillis();
         Log.d("MainActivity", "14:49");
+        //
+        Toast.makeText(this, "hello world", Toast.LENGTH_SHORT).show();
+
+        Log.d("MainActivity", "log");
+        //123
+        //456
+        //789
+        Log.d("MainActivity", "Log.isLogg");
     }
 }
