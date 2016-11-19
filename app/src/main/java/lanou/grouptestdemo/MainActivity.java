@@ -1,7 +1,7 @@
 package lanou.grouptestdemo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //我写了
         // 王一鸣写了代码
         // 下午14:22
+        System.currentTimeMillis();
     }
 }
